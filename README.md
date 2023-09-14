@@ -16,10 +16,10 @@ Um pouco sobre minhas vivências
 ## 🛠 Habilidades
 **Softskills:** Comunicação, criatividade, inocação, mente aberta, colaboração, aprendizado constante.
 
-**Hardskills:** Javascript, HTML, CSS, React, React Hooks, Redux, Context API, Jest, RTL, Typescript, Sinon, Chai, MySql, Arquitetura REST
+**Hardskills:** Javascript, HTML, CSS, React, React Hooks, Redux, Context API, Jest, RTL, Typescript, Sinon, Chai, MySql, Arquitetura REST, Docker
 ## Stack utilizada
 
 **Front-end:** Javascript, HTML, CSS, React, React Hooks, Redux, Context API, Jest, RTL,
 
-**Back-end:** Node, Express, Typescript, Sinon, Chai, MySql 
+**Back-end:** Node, Express, Typescript, Sinon, Chai, MySql, DockerFile, Docker Compose 
 
