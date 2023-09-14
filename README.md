@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**livio-lopes/livio-lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## O medo errado não pode ser maior que a vontade de aprender
 
-Here are some ideas to get you started:
+Eu sou Lívio, desenvolvedor web fullstack  💻  formado pela Trybe, escola de tecnologia, e busco ingressar no mercado de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho o empreendorismo pulsando na veia e sou apaixonado pelo mercado financeiro, sempre aprendendo a identificar as dores das pessoas e propondo soluções.
+
+Um pouco sobre minhas vivências
+- Estagiei na Ouvidoria Geral da UFPa, na recepção e atendimento ao publico
+- Empreendi com delivery de vinhos importados, democratizando acesso e oferecendo atendimento personalizado
+- Empreendi comercializando de roupas infantis, aprendi sobre gestão de caixa e os desafios de manter um CNPJ
+- Hoje, empreendo oferecendo um serviço de aluguel de assinaturas baseado em economia compartilhada, democratizando acesso à quem não tem cartão de cŕédito além de oferecer economia significativa para quem valoriza o entretenimento na sua vida. 
+
+
+
+## 🛠 Habilidades
+**Softskills:** Comunicação, criatividade, inocação, mente aberta, colaboração, aprendizado constante.
+
+**Hardskills:** Javascript, HTML, CSS, React, React Hooks, Redux, Context API, Jest, RTL, Typescript, Sinon, Chai, MySql, Arquitetura REST
+## Stack utilizada
+
+**Front-end:** Javascript, HTML, CSS, React, React Hooks, Redux, Context API, Jest, RTL,
+
+**Back-end:** Node, Express, Typescript, Sinon, Chai, MySql 
+
