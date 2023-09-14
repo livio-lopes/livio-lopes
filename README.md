@@ -4,6 +4,7 @@
 Eu sou Lívio, desenvolvedor web fullstack  💻  formado pela Trybe, escola de tecnologia, e busco ingressar no mercado de tecnologia.
 
 Tenho o empreendorismo pulsando na veia e sou apaixonado pelo mercado financeiro, sempre aprendendo a identificar as dores das pessoas e propondo soluções.
+Quer trocar uma ideia? antonio.lvio760@gmail.com ou [Linkedin](https://www.linkedin.com/in/liviolopesdev/)
 
 Um pouco sobre minhas vivências
 - Estagiei na Ouvidoria Geral da UFPa, na recepção e atendimento ao publico
